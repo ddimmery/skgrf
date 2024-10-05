@@ -28,8 +28,8 @@ classifiers = [
 
 
 [tool.poetry.dependencies]
-python = "^3.8"
-scikit-learn = "^1.0"
+python = "^3.12"
+scikit-learn = "^1.5"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.1.2"
